@@ -5,6 +5,7 @@ de peatones y motociclistas en los mismos. El período estudiado comprende Agost
 Permite evaluar el verdadero efecto que una política, acción o estrategia tiene sobre su objetivo final y es aplicable tanto en el ámbito público como el privado.
 
 Por ejemplo:
+
       *- Ámbito Público: se instalan radares de velocidad en rutas nacionales para disminuir la cantidad de accidentes de tránsito. Tras un año de su instalación,
       la cantidad de accidentes ha disminuído en 12%. ¿Es esa disminución directamente atribuible al efecto de los radares? Es una pregunta relevante en el entendido
       que el diseño, ejecución y mantenimiento de la infraestructura vial tiene altos costos asociados. ¿Qué tal si hubo un cambio en la forma de conducir de los
